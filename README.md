@@ -20,9 +20,12 @@ Here's are three quick examples.
     (@) {#example3}
         1. {#example3sub1} Enumerations within examples are also possible.
 
-        2. And decently intuitive. Labels aren't required if it's not necessary to refer to the example.
+        2. And decently intuitive. Labels not required.
 
-There are more in example.md and you can see for yourself how they render in example.pdf.
+These render as:
+![](readmeex.png)
+
+A full example is provided in example.md/.pdf.
 
 Contributions are welcome. A previous version of this filter had HTML support, so I'm working on porting it to this one also.
 

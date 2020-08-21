@@ -3,11 +3,13 @@ header-includes: |
     \usepackage{gb4e, tipa}
 ---
 
+# pangb4e
+
 A simple example:
 
 (@) {#ex1} A screaming comes across the sky.
 
-\LaTeX~ math stuff works as well:
+\LaTeX math stuff works as well:
 
 (@) {#ex1:formula} $\exists x[\text{screaming}(x) \wedge \text{comes-across}(x, \textit{sky})]$
 
@@ -25,7 +27,7 @@ Glosses work too. The following in <#legate2014:23> is from Legate (2014). Notic
          Who [comp]{.smallcaps} [3pol-caus]{.smallcaps}-medicine [le]{.smallcaps} doctor
          'Who was treated by the doctor?'
 
-You can also include preambles for glosses and include them in subexamples. The examples in <#payne1997:124> are from Payne (1997). Notice both that numbering of subexamples doesn't matter, just like with Pandoc, and that TIPA works assuming that the package is loaded.
+You can also include preambles for glosses and include them in subexamples. The examples in <#payne1997:124> are from Payne (1997). Notice that numbering of subexamples doesn't matter, just like with Pandoc, and that TIPA works (assuming that the package is loaded).
 
 (@) {#payne1997:124} *Turkish*
     1. {#payne1997:124:33a} *Affirmative existential*
