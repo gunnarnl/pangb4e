@@ -9,7 +9,7 @@ A simple example:
 
 (@) {#ex1} A screaming comes across the sky.
 
-\LaTeX math stuff works as well:
+\LaTeX\ math stuff works as well:
 
 (@) {#ex1:formula} $\exists x[\text{screaming}(x) \wedge \text{comes-across}(x, \textit{sky})]$
 
